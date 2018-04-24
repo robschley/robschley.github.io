@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://robschley.com/blog/you-live-on-a-boat/</loc>
+    <lastmod>2018-04-24T17:09:06-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://robschley.com/travel/</loc>
     <lastmod>2018-03-29T13:12:19-04:00</lastmod>
   </url>
@@ -19,7 +24,7 @@
   
   <url>
     <loc>http://robschley.com/blog/</loc>
-    <lastmod>2018-03-28T12:55:10-04:00</lastmod>
+    <lastmod>2018-04-24T17:09:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +35,7 @@
   
   <url>
     <loc>http://robschley.com/</loc>
-    <lastmod>2018-03-29T13:12:19-04:00</lastmod>
+    <lastmod>2018-04-24T17:09:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   
